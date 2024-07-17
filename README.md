@@ -35,10 +35,10 @@ Results
 The K-means clustering resulted in four distinct clusters with the following average attributes:
 
 Cluster	Shooting	Passing	Dribbling	Defending
-0	65.92	69.48	73.19	54.62
-1	31.62	43.43	46.55	60.76
-2	59.73	53.69	63.96	30.46
-3	46.69	58.51	61.89	62.55
+0.	65.92	69.48	73.19	54.62
+1.	31.62	43.43	46.55	60.76
+2.	59.73	53.69	63.96	30.46
+3.	46.69	58.51	61.89	62.55
 Conclusion
 The clustering analysis identified four distinct player profiles based on their skill attributes:
 
